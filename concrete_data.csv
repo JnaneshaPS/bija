@@ -1,0 +1,6 @@
+Mix_ID,Cement (kg/m3),Water (kg/m3),Fine_Aggregate (kg/m3),Coarse_Aggregate (kg/m3),Strength (MPa)
+M1,350,180,650,1200,28
+M2,400,175,700,1100,32
+M3,380,190,680,1150,30
+M4,420,170,720,1120,35
+M5,360,185,690,1180,29
